@@ -70,7 +70,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "<i><span style=\"font-weight: normal;\">Project</span> Library Mangement System</i>",
-          "text": "&nbsp;This project is Coded and Designed by Aashik J Krishnan<br>bearing USN Number 1EP19IS400.\n<br>This project must only be used for educational purposes only.<br><br>click below for the live demo of the project<br><br>github-pages&nbsp;",
+          "text": "&nbsp;This project is Coded and Designed by Aashik J Krishnan<br>bearing USN Number 1EP19IS400.\n<br>This project must &nbsp;be used for educational purposes only.<br><br>click below for the live demo of the project<br><br>github-pages&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LMS Victory Library</a> ",
           "_tags": [
             "Theme"
